@@ -19,13 +19,7 @@ html{
     scroll-snap-type: y mandatory;
 }
 
-/** EFECTO SCROLL **/
-
-.contenedor,
-.nav_main,.formulario{
-    scroll-snap-align: center;
-    scroll-snap-stop:always ;
-}
+/** EFECTO SCROLL  */
 
 
 *, *:before, *:after {
